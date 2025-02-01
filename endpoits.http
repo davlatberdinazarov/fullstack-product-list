@@ -1,0 +1,7 @@
+GET ALL  http://localhost:5000/api/products
+GET BYID http://localhost:5000/api/products/2
+
+CREATE   http://localhost:5000/api/products/create 
+PUT      http://localhost:5000/api/products/update/3
+DELETE   http://localhost:5000/api/products/delete/2
+

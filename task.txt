@@ -1,0 +1,15 @@
+1. express nodemon 
+2. pacakge json orqali npm start ishlataslar nodemon ni
+3. server porti 5000;
+4. database schema
+{
+    title: "Product name",
+    description: "lorem ispum dolor sit amet, consectetur",
+    imageUrl: "http://unsplash.com/images/",
+    category: "Clothes",
+    price: 34
+}
+
+5. getAll , getById , POST, PUT BYID, DELETE BYID
+
+6. task frontend qilish oddit 
